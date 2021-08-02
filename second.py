@@ -2,10 +2,6 @@
 
 'add'
 
-'with masters branch'
+'this is master branch'
 
-'it works out'
-
-'master after merge'
-
-'123'
+'dont forget'
