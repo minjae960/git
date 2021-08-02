@@ -7,3 +7,5 @@
 'it works out'
 
 'after merge'
+
+'1'
