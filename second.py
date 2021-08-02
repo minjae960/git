@@ -2,8 +2,6 @@
 
 'add'
 
-'this is master branch'
+'with masters branch'
 
-'dont forget'
-
-'different from branch'
+'it works out'
